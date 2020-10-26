@@ -22,4 +22,4 @@ You'll be coding your solution in both `app.rb` and `views`.
 
 5. In the view rendered by the controller action, display the item the user entered to purchase.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-basic-sessions-lab' title='Sinatra Basic Sessions Lab'>Sinatra Basic Sessions Lab</a> on Learn.co and start learning to code for free.</p>
+
